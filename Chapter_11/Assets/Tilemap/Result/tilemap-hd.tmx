@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Jungle" tilewidth="64" tileheight="64" spacing="2" margin="2">
+  <image source="tilemap-hd.png" width="256" height="512"/>
+ </tileset>
+ <layer name="Bushes" width="64" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMAqIAzwD7QAqAl4S1XMCMTcQc9HADk6oWlLMJhVwopmPyy/o6mBi3EiYGH3YwosUs3GpxRVGhOTwuX0kAgAhFQGu
+  </data>
+ </layer>
+ <layer name="Trees" width="64" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztkEsKwCAMRF34u/+Ju1EIjzEpdtkMBElmfBFLSaVSqdQIvPmRp+6/yZw8770nzsBp1R1GX6XunXaRxz7KcJeX5RvUrmnmym8Oo63aM/6NEnnsowy5t9lhMk34W9Vh1FV7xr9RIo99lCH3NttNpgr/z3oAzNgBmQ==
+  </data>
+ </layer>
+ <layer name="Ground" width="64" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYWYARiJmgNDMUM6LR6OL41DAR4GMzC10NIwFxdDlC4tjkYTQAV/QAng==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="10" height="10" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="isometric_tileset" tilewidth="64" tileheight="100" spacing="2" margin="2">
+  <image source="isometric_tileset.png" width="512" height="1024"/>
+ </tileset>
+ <layer name="Village" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOpIFYAYjFgJgRhxpGqBo5qHopHGrkkNQwQml0NeJQGh0jq0HHrFBaGU2NBBKbHYh5gZiLABYEYj4k8zihbHSaB49bkTEPFn/JQmkpKC2DpA6GAXgqAxw=
+  </data>
+ </layer>
+</map>

@@ -8,4 +8,4 @@ Each folder (e.g. **Chapter_04**) contains game art (images, spritesheets, audio
 
 If you want to learn more about the book please visit <a href='http://kirillmuzykov.com/my-cocos2d-book-published/'>**My Blog**</a> or read information on the <a href='https://www.packtpub.com/learning-iphone-game-development-with-cocos2d-3-0/book'>**Packt website**</a>.
 
-There is also a <a href='http://www.youtube.com/watch?v=xWtuK3gIxoM'>**video**</a> on YouTube demonstrating some of the aspects you will learn from this book.
+There is also a <a href='http://www.youtube.com/watch?v=xWtuK3gIxoM'>**video**</a> on YouTube demonstrating some of the topics covered in the book.
